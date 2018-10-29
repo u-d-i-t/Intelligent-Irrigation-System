@@ -1,2 +1,2 @@
 # Intelligent-Irrigation-System
-This is a repository of
+This is a repository of samrt irrigation system
