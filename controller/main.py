@@ -1,6 +1,9 @@
 import socket, time, sys, machine, pycom
 from network import LoRa, WLAN
 
+
+
+
 ## Central node code:
 # - polls sensors
 # - sends commands to actuators
