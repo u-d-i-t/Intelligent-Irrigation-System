@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import db
+
+
 def drawGraphs():
     data=getStoredData()
     time=[]
